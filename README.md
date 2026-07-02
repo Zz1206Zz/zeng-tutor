@@ -5,7 +5,7 @@
 ## 在线访问
 
 - **主站**: https://zeng-xuezhang-tutor.surge.sh
-- **GitHub Pages**: 待部署
+- **GitHub Pages**: https://zz1206zz.github.io/zeng-tutor/
 
 ## 简介
 
